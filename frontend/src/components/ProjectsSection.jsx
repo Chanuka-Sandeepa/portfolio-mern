@@ -15,21 +15,21 @@ const projects = [
     title: 'Online Food Ordering System',
     description: 'Using HTML, CSS, PHP and JavaScript to build an online food ordering system.',
     image: 'https://via.placeholder.com/300', // Replace with the image URL
-    github: 'https://github.com/yourusername/online-food-ordering-system', // Replace with your GitHub link
+    github: 'https://github.com/Chanuka-Sandeepa', // Replace with your GitHub link
   },
   {
     id: 3,
     title: 'Online Vehicle Rent System',
     description: 'Java Language Use To Build Online Vehicle Rent System.',
     image: 'https://via.placeholder.com/300', // Replace with the image URL
-    github: 'https://github.com/yourusername/online-vehicle-rent-system', // Replace with your GitHub link
+    github: 'https://github.com/Chanuka-Sandeepa', // Replace with your GitHub link
   },
   {
     id: 4,
     title: 'Mobile Shop Management System',
     description: 'Mern Stack (React, Node.js, Express.js and MongoDB) use to build a mobile shop management system.',
     image: 'https://via.placeholder.com/300', // Replace with the image URL
-    github: 'https://github.com/yourusername/mobile-shop-management-system', // Replace with your GitHub link
+    github: 'https://github.com/Chanuka-Sandeepa', // Replace with your GitHub link
   }
 ];
 
